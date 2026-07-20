@@ -1,0 +1,1 @@
+console.log("Sensor model is ready");
